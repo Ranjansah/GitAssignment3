@@ -1,0 +1,4 @@
+void add()
+return a+b;
+void sub()
+returb a-b;
